@@ -1,7 +1,7 @@
 
 # Files Organizer
 
-![Background Remover](file organize.gif)
+![Files Organizer](https://github.com/ruwo36/File-organize/blob/main/File-organize/file%20organize.gif)
 
 ## About
 

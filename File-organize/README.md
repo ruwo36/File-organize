@@ -64,7 +64,7 @@ When the program is executed, it asks the user to input the folder's path, and a
 ```bash
 python main.py
 ```
-Show it in my [LinkedIn](https://www.linkedin.com/in/ali-n-ajeeb), I post a video explain it.
+Show it in my [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7194595374928396288/), I post a video explain it.
 
 ## License
 
